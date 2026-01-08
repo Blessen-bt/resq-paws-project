@@ -1,5 +1,12 @@
 # ResQ Paws – Mini Project
 
+## About the Project
+
+ResQ Paws is an initiative dedicated to helping injured and abandoned dogs through rescue, treatment, and rehabilitation.
+
+The project was inspired by the story of **Bheema**, a brave Golden Retriever whose journey sparked a movement of care, compassion, and responsibility toward animals in need.
+
+
 ResQ Paws is a mini project developed as part of weekly academic assignments.  
 The project demonstrates frontend, backend, database, React, and deployment concepts learned during the course.
 

@@ -6,27 +6,29 @@ The project demonstrates frontend, backend, database, React, and deployment conc
 ---
 
 ##  Project Structure
-
-resq_paw/
+```
+resq-paws-project/
+│
+├── index.html
+├── README.md
 │
 ├── login/
-│ ├── login.html
-│ ├── login.css
-│ ├── script.js
-│ └── server.js
+│   ├── login.html
+│   ├── login.css
+│   ├── script.js
+│   └── server.js
 │
 ├── dashboard/
-│ ├── dashboard.html
-│ ├── dashboard.css
-│ └── dashboard.js
+│   ├── dashboard.html
+│   ├── dashboard.css
+│   └── dashboard.js
 │
-├── database/
-│ └── resqpaws.db
+├── resqpaw_database/
+│   └── resqpaws.db
 │
-├── react/
-│ └── Login.jsx
-│
-└── README.md
+└── react/
+    └── Login.jsx
+```
 
 
 ---
